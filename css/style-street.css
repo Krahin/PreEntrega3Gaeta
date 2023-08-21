@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
 }
@@ -17,7 +17,6 @@ body {
 
 header {
     height: 123px;
-    /* background-color: cadetblue; */
     margin-top: 40px;
     margin-bottom: 40px;
     padding-left: 40px;
@@ -26,7 +25,6 @@ header {
 
 h1 a {
     font-size: 30px;
-    /* background-color: bisque; */
     display: inline-block;
     position: relative;
     left: 40%;
@@ -48,20 +46,17 @@ ul li {
 
 nav {
     display: inline-block;
-    /* background-color: aquamarine; */
     position: relative;
     left: 22%;
     top: 33px;
 }
 
 main {
-    /* background-color: burlywood; */
     height: 1400px;
     vertical-align: center;
 }
 
 footer {
-    /* background-color: blue; */
     height: 60px;
     margin-top: 10px;
 }
@@ -109,9 +104,8 @@ footer {
 .redes-sociales-logo {
     width: 50px;
     height: 50px;
-    /* background-color: aquamarine; */
     display: inline-block;
     position: relative;
     left: 1100px;   
 }
-
+ */
