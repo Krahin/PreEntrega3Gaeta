@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "bochan";
+    src: url(../assets/fonts/Bochan\ Serif.ttf);
+}
+
+body {
+    font-family: "bochan";
+    font-size: 1rem;
+}
+
+h1 a {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;  
+}
+
+a.navbar-brand {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+
