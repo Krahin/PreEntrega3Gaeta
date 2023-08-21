@@ -1,6 +1,6 @@
 @font-face {
   font-family: "bochan";
-  src: url(../assets/fonts/Bochan\ Serif.ttf);
+  src: url(../../../assets/fonts/Bochan\ Serif.ttf);
 }
 body {
   font-family: "bochan";
@@ -18,4 +18,4 @@ body a.navbar-brand {
   font-weight: bold;
 }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style-b&w.css.map */
