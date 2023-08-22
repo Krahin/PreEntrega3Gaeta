@@ -1,3 +1,5 @@
+@import "./modules/variables";
+
 @font-face {
     font-family: "bochan";
     src: url(../assets/fonts/Bochan\ Serif.ttf);
@@ -6,4 +8,5 @@
 body {
     font-family: "bochan";
     @import "./modules/header";
+    background-color: $bgbody;
 }

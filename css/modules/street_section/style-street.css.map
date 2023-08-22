@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../../scss/modules/street_section/style-street.scss","../../../scss/modules/_header.scss"],"names":[],"mappings":"AAAA;EACI;EACA;;AAGJ;EACI;;ACNJ;EACI;EACA;;AAGJ;EACI;EACA;;AAGJ;EACI;EACA","file":"style-street.css"}
+{"version":3,"sourceRoot":"","sources":["../../../scss/modules/street_section/style-street.scss","../../../scss/modules/_variables.scss","../../../scss/modules/_header.scss"],"names":[],"mappings":"AAEA;EACI;EACA;;AAGJ;EACI;EAEA,kBCRK;;ACFT;EACI;EACA;;AAGJ;EACI;EACA;;AAGJ;EACI;EACA","file":"style-street.css"}
